@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-If you have any questions or inquiries, please contact the project maintainer at [your-email@example.com](mailto:your-email@example.com). We appreciate your interest in this project!
+If you have any questions or inquiries, please contact the project maintainer at [RealFaresLharbi@gmail.com](mailto:your-email@example.com). We appreciate your interest in this project!
